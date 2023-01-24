@@ -15,5 +15,5 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 The project currently only implements the back-end console.
 
 ## Authors:
-* kouame konan abraham <[konanycode1](https://github.com/konanycode)>
+* kouame konan abraham <[konanycode1](https://github.com/konanycode1)>
 
